@@ -1,16 +1,17 @@
-# splash_animation
+# Animated Splash Screen - Flutter 🚀
 
-A new Flutter project.
+A beautifully animated splash screen built with Flutter, designed to make your app's first impression stand out.
 
-## Getting Started
+[https://user-images.githubusercontent.com/your-username/demo-video.mp4](https://youtube.com/shorts/S0nDYeYG520?si=AgT6uqx7dtIsrURM)
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- **Bounce Animation** – The logo drops and bounces into view.
+- **Text Transition** – Text color changes smoothly as the circle grows.
+- **Full-Screen Circle Expansion** – Circle grows to cover the full screen for a seamless transition.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🔧 Tech Stack
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Flutter**
+- **Dart**
+- Built-in Animation (no third-party animation packages)
